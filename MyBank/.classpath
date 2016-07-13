@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/test/java">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src.main.resource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="lib/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="lib/asm.jar"/>
+	<classpathentry kind="lib" path="lib/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="lib/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="lib/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="lib/jta.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="lib/xerces-2.6.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/ecj-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="D:/MadhurvaWindows/Downloads/apache-tomcat-8.0.36/apache-tomcat-8.0.36/lib/websocket-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
